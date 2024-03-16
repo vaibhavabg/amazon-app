@@ -1,5 +1,8 @@
 import Carousel from 'react-bootstrap/Carousel';
 import img from '../Cards/img/1.jpg'
+import img1 from '../Cards/img/190730-xiaomi-mi-9t-RM1099-2.jpg'
+import img2 from '../Cards/img/62918a70b653793da2b31f1944837e04.jpg'
+import img3 from '../Cards/img/WhatsApp_Image_2024-01-29_at_10.54.12_4a0a1dd1._SX1242_QL85_ (1).jpg'
 import { autocompleteClasses } from '@mui/material';
 
 let style = {
@@ -24,7 +27,7 @@ export function Curosal(){
         height={400}
         width={800}
           className="d-block w-100"
-          src={img}
+          src={img1}
           alt=""
         />
         <Carousel.Caption>
@@ -36,7 +39,7 @@ export function Curosal(){
         <img
         height={400}
           className="d-block w-100"
-          src={img}
+          src={img2}
           alt="Second slide"
         />
         <Carousel.Caption>
@@ -48,7 +51,7 @@ export function Curosal(){
         <img
         height={400}
           className="d-block w-100"
-          src={img}
+          src={img3}
           alt="Third slide"
         />
         <Carousel.Caption>

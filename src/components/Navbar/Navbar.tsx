@@ -12,7 +12,7 @@ let style = {
 function MNavbar() {
   return (
   <><div >
-      <center><Navbar  expand="lg" className="bg-warning">
+      <center><Navbar  expand="lg" className="bg-dark.bg-gradient">
         <Container>
           <Navbar.Brand href="#home">React-Bootstrap</Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
