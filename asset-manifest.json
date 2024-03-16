@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/amazon-app/static/css/main.db62923b.css",
+    "main.js": "/amazon-app/static/js/main.0a5bbf96.js",
+    "static/js/511.07bf1667.chunk.js": "/amazon-app/static/js/511.07bf1667.chunk.js",
+    "static/media/190730-xiaomi-mi-9t-RM1099-2.jpg": "/amazon-app/static/media/190730-xiaomi-mi-9t-RM1099-2.201e89abc3645414c645.jpg",
+    "static/media/jpg": "/amazon-app/static/media/62918a70b653793da2b31f1944837e04.8946f466e5e7e3371d4f.jpg",
+    "static/media/WhatsApp_Image_2024-01-29_at_10.54.12_4a0a1dd1._SX1242_QL85_ (1).jpg": "/amazon-app/static/media/WhatsApp_Image_2024-01-29_at_10.54.12_4a0a1dd1._SX1242_QL85_ (1).1e46883c9b129d12f119.jpg",
+    "static/media/1.jpg": "/amazon-app/static/media/1.b820a4c09692a95539c7.jpg",
+    "index.html": "/amazon-app/index.html",
+    "main.db62923b.css.map": "/amazon-app/static/css/main.db62923b.css.map",
+    "main.0a5bbf96.js.map": "/amazon-app/static/js/main.0a5bbf96.js.map",
+    "511.07bf1667.chunk.js.map": "/amazon-app/static/js/511.07bf1667.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db62923b.css",
+    "static/js/main.0a5bbf96.js"
+  ]
+}
