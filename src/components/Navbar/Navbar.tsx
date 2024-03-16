@@ -14,7 +14,7 @@ function MNavbar() {
   <><div >
       <center><Navbar  expand="lg" className="bg-dark.bg-gradient">
         <Container>
-          <Navbar.Brand href="#home">React-Bootstrap</Navbar.Brand>
+          <Navbar.Brand href="#home">Amazon</Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="me-auto">
